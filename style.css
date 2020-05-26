@@ -1,0 +1,44 @@
+
+body{
+  text-align: center;
+}
+* {
+  box-sizing: border-box;
+}
+
+.container {
+ border: none;
+ margin-left: auto;
+ margin-right: auto;
+ margin-top: 10px;
+ margin-bottom: 10px;
+ padding: 10px;
+}
+#header-nav{
+  background-color:orange;
+}
+button{
+  background-color: orange;
+}
+
+#nav-list{
+  margin-top: 20px;
+}
+#nav-list a{
+  text-align: center;
+ background-color: pink;
+}
+
+#Chicken,#Beef,#Sushi {
+  background-color: grey;
+  color: black;
+  padding: 20px;
+  
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.navbar-header{
+  margin:-10px;
+}
